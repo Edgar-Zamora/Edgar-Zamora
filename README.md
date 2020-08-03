@@ -9,5 +9,5 @@ I'm a data consultant at Big Community College College where I wrangle, analyze,
 
 
 # Following my work
-🐦 [Edgar_Zamora_](https://twitter.com/Edgar_Zamora_)
-💻 [webpage](https://edgarzamora.netlify.com/)
+<br> 🐦 [Edgar_Zamora_](https://twitter.com/Edgar_Zamora_)
+<br> 💻 [webpage](https://edgarzamora.netlify.com/)
