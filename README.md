@@ -5,4 +5,9 @@
   <figcaption> Photo by Caleb Riston </figcaption>
 </figure>
 
+I'm a data consultant at Big Community College College where I wrangle, analyze, and visualize student data to allow stakeholders to make decisions about the direction of the college. 
 
+
+# Following my work
+🐦 [Edgar_Zamora_](https://twitter.com/Edgar_Zamora_)
+💻 [webpage](https://edgarzamora.netlify.com/)
