@@ -1,7 +1,7 @@
 # Hi, I'm edgaR 👋 :bar_chart:
 
 <figure>
-  <img src = "https://images.unsplash.com/photo-1529588672020-ff93b1dac689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" width=auto>
+  <img src = "https://images.unsplash.com/photo-1531967289949-52edc23fe94f?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80" width="829px" height="400px">
   <figcaption style="font-size:10px;">Photo by <a href="https://unsplash.com/@johnwestrock">Dave Hoefler</a> </figcaption>
 </figure>
 
