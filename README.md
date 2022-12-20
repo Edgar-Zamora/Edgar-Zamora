@@ -12,6 +12,5 @@ I'm a Senior Data Associate at Allovue where I extract, transform, and load K-12
 
 # Connect with me:
 - Follow me on Twitter (<a href="https://twitter.com/Edgar_Zamora_">Edgar_Zamora_</a>) 🐦
-- <a href="mailto:edgarzamora2012@hotmail.com">Email</a> me 📧 
 - Connect with me on <a href="https://www.linkedin.com/in/edgar-zamora-01896b148/">LinkedIn</a> 👔 
 
